@@ -1,1 +1,2 @@
-this is a text file
+this is a text file, look i've made some changes
+and added a new line
